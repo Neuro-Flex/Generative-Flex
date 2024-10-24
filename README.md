@@ -1,1 +1,1 @@
-# Generative-Flex
+# GenerativeFlex
