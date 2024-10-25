@@ -1,4 +1,4 @@
-# Generative-Flex
+# GenerativeFlex
 
 A comprehensive guide to understanding and implementing generative AI systems.
 
